@@ -1,0 +1,9 @@
+import React from 'react'
+
+const FileInput1 = () => {
+  return (
+    <>Test</>
+  );
+}
+
+export default FileInput1
